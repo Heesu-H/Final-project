@@ -24,7 +24,7 @@ Our Machine Learning Program enables Producers to better assess and choose which
 
 ## File description
 
-Raw data [IMDb movies.csv] from [Kaggle](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset) can be found in [data](data) folder. Cleaned data, including selected features and encoded inputs, can be found in [encoded_data](model/encoded_data) folder. The tuned xgboost and lightgbm models are saved in [model](model) foler.
+Raw data [IMDb movies.csv] from [Kaggle](https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset) can be found in [data](data) folder. Cleaned data, including selected features and encoded inputs, can be found in [encoded_data](model/encoded_data) folder. The tuned xgboost and lightgbm models are saved in [model](model) folder.
 
     .
     ├── analysis            # data and model exploration 
